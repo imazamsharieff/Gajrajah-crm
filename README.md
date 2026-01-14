@@ -43,8 +43,6 @@ npm run build
 
 ### Default Login Credentials
 
-- **Email**: social@gajrajah.com
-- **Password**: gajrajah@123
 
 ## Project Structure
 
